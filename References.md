@@ -1,6 +1,6 @@
 ### References
 #### W​eek 1:
-[Minimal character-level language model with a Vanilla Recurrent Neural Network, in Python/numpy] (https://gist.github.com/karpathy/d4dee566867f8291f086) (GitHub: karpathy)
+[Minimal character-level language model with a Vanilla Recurrent Neural Network, in Python/numpy](https://gist.github.com/karpathy/d4dee566867f8291f086) (GitHub: karpathy)
 
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (Andrej Karpathy blog, 2015)
 
